@@ -1,0 +1,29 @@
+# Python Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE configurations
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temporary test outputs
+test_out.ipynb
+executed_test.ipynb
